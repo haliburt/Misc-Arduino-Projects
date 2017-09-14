@@ -1,0 +1,5 @@
+Version		Date		Changes
+=======		====		=======
+0.9		21/08/2015	First beta release.
+1.0		11/11/2015	None. Final version.
+1.0.1		13/01/2016	Erro fixed in the setAudioInput function. It was not setting the analog reference correctly in some scenarios.

@@ -1,0 +1,13 @@
+BVSMic	KEYWORD1
+begin	KEYWORD2
+setAudioInput	KEYWORD2
+startRecording	KEYWORD2
+stopRecording	KEYWORD2
+resetBuffer	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+isRecording	KEYWORD2
+available	KEYWORD2
+getEOCInterrupt	KEYWORD2
+getAnalogPin	KEYWORD2
+BVSM_BUFFER_SIZE	LITERAL1
